@@ -8,8 +8,7 @@ Welcome to the RVRCoffee preorder system! This website allows hostel residents t
 - Specify your name and order details
 - Select delivery or pickup; if delivery, provide your room number
 - Pay securely via PAYNOW and upload proof of payment
-- Cute and user-friendly interface
-
+  
 ## How to Use
 
 1. Fill in your name and order.
